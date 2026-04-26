@@ -144,6 +144,11 @@ class: center, middle, white
 - Inferencia
 - Distribución...
 
+<div style="text-align: center;">
+  <img src="input/images/pye.png" width="600">
+</div>
+
+
 ---
 
 ## Curva normal:
@@ -260,7 +265,7 @@ class: center, middle, white
 
 ## Aplicación 2:
 
-Con datos de una encuesta sobre satisfacción laboral se le pide comparar el tiempo promedio de satisfacción laboral entre trabajadores/as con jornada completa y trabajadores/as con jornada parcial.
+Con datos de una encuesta sobre satisfacción laboral se le pide comparar el puntaje promedio de satisfacción laboral entre trabajadores/as con jornada completa y trabajadores/as con jornada parcial.
 
 Considerando la siguiente información:
 - Tamaño muestral 500 
@@ -277,7 +282,7 @@ Considerando la siguiente información:
 
 ## Preguntas aplicación
 
-1. Formule una hipótesis alternativa y una hipótesis nula para diferencia de promedios de horasde cuidado entre hombres y mujeres
+1. Formule una hipótesis alternativa y una hipótesis nula para la diferencia de puntaje promedio de satisfacción laboral entre trabajadores/as con jornada completa y parcial.
 
 2. Basándonos en el contraste entre valor crítico y empírico de t: ¿Es posible rechazar lahipótesis nula? Si es así, ¿Con qué nivel de confianza/probabilidad de error?
 
